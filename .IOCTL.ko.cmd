@@ -1,0 +1,1 @@
+cmd_/home/hp/Desktop/IOCTL/IOCTL.ko := ld -r  -m elf_x86_64  --build-id=sha1  -T scripts/module.lds -o /home/hp/Desktop/IOCTL/IOCTL.ko /home/hp/Desktop/IOCTL/IOCTL.o /home/hp/Desktop/IOCTL/IOCTL.mod.o;  true
